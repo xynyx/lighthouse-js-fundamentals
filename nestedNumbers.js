@@ -21,7 +21,7 @@ let numbers = [
 ];
 
 
-// This involves using the map() method twice, once on outer array and one on inner array
+// This involves using the map() method twice, once on outer array and once on inner array
 // No for loops are used, however this doesn't fulfill the requirement of the assignment (though it seems a little cleaner!)
 
 // let evenOrOdd = numbers.map(function(nested) {
