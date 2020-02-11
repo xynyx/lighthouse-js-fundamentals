@@ -14,9 +14,9 @@ removeFriend() - decreases the friend count by 1 */
 
 
 let facebookProfile = {
-  name: "Mike Rotch",
+  name: "Matty T",
   friends: 51241,
-  messages: ["I love you, Hugh Jass! <3"],
+  messages: ["Cinnamon hearts <3"],
   postMessage: function addMessage(message) {
     // Don't forget that you must specify the property in the object all the way down from the top!
     facebookProfile.messages.push(message);
